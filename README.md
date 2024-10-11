@@ -28,7 +28,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Install the required dependencies:
    pip install -r requirements.txt
 4. Create a .env file in the root directory and add your Groq API key and Telegram BOT TOKEN as follows:
-   GROQ_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   TELEGRAM_BOT_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-5. Open Telegram, search for your bot’s username, and start interacting!
+      GROQ_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TELEGRAM_BOT_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+6. Open Telegram, search for your bot’s username, and start interacting!
 
