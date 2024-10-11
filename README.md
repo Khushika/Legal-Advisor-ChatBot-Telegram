@@ -21,14 +21,16 @@ For more details on the AIogram framework used in this project, check out the of
 ## How to Run the Code
 1. Clone this repository or download the ZIP file.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Khushika/Legal-Advisor-ChatBot-Telegram.git
 2. Create a virtual environment and activate it:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Install the required dependencies:
    pip install -r requirements.txt
 4. Create a .env file in the root directory and add your Groq API key and Telegram BOT TOKEN as follows:
-      GROQ_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-TELEGRAM_BOT_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   
+          GROQ_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          TELEGRAM_BOT_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   
 6. Open Telegram, search for your bot’s username, and start interacting!
 
